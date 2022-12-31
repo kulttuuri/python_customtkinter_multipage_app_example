@@ -10,7 +10,9 @@
 Below you can find links to three-part series tutorial which explains the structure of this template and how to get started with it.
 
 [Part 1 (16 min)](https://www.youtube.com/watch?v=d49E8tq4iLs&ab_channel=CodeTeachr)
+
 [Part 2 (17 min)](https://www.youtube.com/watch?v=3iEbriQYS2M&ab_channel=CodeTeachr)
+
 [Part 3 (11 min)](https://www.youtube.com/watch?v=qy_AJj42QXI&ab_channel=CodeTeachr)
 
 ## Requirements
